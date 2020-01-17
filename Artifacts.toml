@@ -1,0 +1,378 @@
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "ebb4dc704eb641151f99126079f97aac47817596"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "5bc8c078e7bb00fab47bcfbdfd600dd5f1d6d97adfa94d9f3298a01b36bf888d"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-gnu-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "6fe9622b416c27b83a67ba8d0967c71f7cda261c"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "d3d3ad9e15a90dfd40d59654dba83aa3a63b72d10d7de9c3cc6ad2f9b5db2fbf"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-w64-mingw32-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "8c3631bfaef9698a0fda66f6adbe2894c64c84ad"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "2b7d15c4ec8b28cff97691b94c173167adeb8f911fa018fa70b471102b060eb1"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-musl-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "b51fa50a0423963155935c91075c2aeac2ba3033"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "c7212e5456dd37bc4d8672403249bf64fab148fb62c76ec5148caeae6cfee674"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-w64-mingw32-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "7db12e4fca3a8e6a764352f50dabafcc9faf8f49"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "191620250ee31206a6c45a069adf1eb20ab690d103def90b0d7c373043a6f95a"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-musl-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "0d3e2083b0931385a6db69f49f1d95f2742bff18"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "01ffd95bc51b4b44f90a744380c90ceac6dbf29ee6e7241fed4b8168880b62ef"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-gnu-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "7c636abd728c839a147843d25eab1970f3d3ad4a"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "04a006b94cd6e6fafdb6f15ba382d48ea67ea0b0e2eeca3c8b91f6ae09f34923"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-gnu-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "powerpc64le"
+git-tree-sha1 = "8c7a958fb538e263fe9c7131ee0515b95f7d2514"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "150c6800f2fdd56c91f1f43a3f8a51bdfc50072cdde0b5ca365be78cc3b645fc"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.powerpc64le-linux-gnu-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "feae4098e2d932bff251b7beec9095014c0c04b6"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "2da02b6af4d7375778d7ea88015bf799f05461d46b9ede202b40a2bdaecf9dfe"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-w64-mingw32-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "e587add7f2357c0b276a252f8525dc7b38446b7a"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "76cdad17d9bb697d0219c4a34e32473afdbef0310197f1cba6258add1cb4009f"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-musl-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "be4c01eca792a6d576e4990d3e02f4a9c9e834cc"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "12557fba70affec619bc4cfe3451b9afaf9611e623a7ecc91886dce1890f20ba"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-w64-mingw32-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "95f446cb1a92dfd03e56789dae1b99381f880df6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "f71abd5336d14c708da66857d0679b5e595b2507edc51d90414024d05e7e2040"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-gnu-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "c28a636f6499efc43f5eace54d5b7bb29ea8b9cd"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "258b8ee3f840395546c36220fe6cb76508c52838ff1619f98325892bd12282af"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-musleabihf-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "2c776195eb3044f385e90432dbcad750852b5674"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "3fb55733a9e3f7a8e60782b25c4c2e5dd6580db3107f6c846f55f0185abb4464"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-gnu-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "powerpc64le"
+git-tree-sha1 = "8c9ee53a4689a911e1647f8fc86a04e65f8bd0a0"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "6c6da5f1867e01885566ff29d7772e8bc1414a452bc0e5950503eaaa505ce36b"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.powerpc64le-linux-gnu-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "9b495c7642f684c004bda4bdc95e147102492abe"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "7f008716de793055727839fd2725a9c1159a8fe6c34fb0bb3820709ce251f8dc"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-musl-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "70c18f66203228d136973a391df637edcf4aa3a6"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "85723da8d88bc088fb9eac7c61fcbe51140bf4ed9acf5b665a0bccfac9613702"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-musl-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "44166cc6cb116f2380e0a4e6ca99d98e7dca0740"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "dcbabc32ee51a52ff9ecc45e0f3dd9970a1277ba9544195b21d7869efcb6c1e6"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-musleabihf-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "powerpc64le"
+git-tree-sha1 = "47facaeb021c09ffc59e0528a4a639718c4da959"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "0df99b06ebc56fb5e6414d01bbd01cd61d9beaee61f89852fde8cac2eb881708"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.powerpc64le-linux-gnu-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "ac027f6c55738315a6c686cff899365c5b90f9f5"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "925840f7ebbba1c77a80a2d60f3516b06e7bc7024875dc45b639570d934e5624"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-gnueabihf-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "7883d4c619c6d0b547757284ebb3080a678404a3"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[PROPACK.download]]
+    sha256 = "8227388b2fb4bcda20ded16f8a62e5d00c874862e425a0cf769b203424169bfc"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "2480e7481f35411bb9831e33dd3445e472f57bc4"
+libgfortran_version = "4.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "9dc83a28651f00fe7b1763b1e5d8bb44f3e445ccdf7254fb3cefe873bf648afd"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-w64-mingw32-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "170a161897228e073c32ca9d22ecb7679f690951"
+libgfortran_version = "4.0.0"
+os = "macos"
+
+    [[PROPACK.download]]
+    sha256 = "2e70c201e12814a3e2e1635f745571fd94ab4f9b86113d976c936bae6a897f48"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-apple-darwin14-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "75210711115975b3ee2f2565d90087dbadfaeb47"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "77c89893d2ce4f705a3253f982cdb762e1388e3e686cd73a72a665d70532b380"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-musl-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "15f8b0a7d2243563d9a8798f79613bccfa2e58ce"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "b6fe618229452b8df033659e85887e10fcc830603a7f2729181778b6853febed"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-gnueabihf-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "945950e8a1575bd1b46d701eba8625b74cb7604e"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[PROPACK.download]]
+    sha256 = "03ec3a32c7cc62f5133c615778f05462977220716ccbc490b608b72e22b4f5ff"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-apple-darwin14-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "9152e2ff79cb13fc548b0a7eafa5a6962f4c182c"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "04577127d0b092fdf202891e018b57206dde5a07831865e062d734db7d4b9e76"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-gnu-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "fa2e0f7a4843eed8e118a326bb809abdb13f52bc"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "3fbc31cc1149b3c4c800c177612118c742d4d9c00ee127d365259b2764b2f71a"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-musleabihf-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "aarch64"
+git-tree-sha1 = "eb5e2d31787fae43c505a1f017176c3104d99782"
+libc = "glibc"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "bf1f1130ed53595515604c601c6e93560a6585034aef967460b4c3b0014baa2a"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.aarch64-linux-gnu-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "ec59dd68772bf93a3e084ceeeb47f6521346eb51"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "09dde59a8eee74ab267fb6e8792715c2e725af98f5784b57f97c4566cc1271fc"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-musl-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "armv7l"
+git-tree-sha1 = "da66104dc7feff523ed1b03a049d732dbedb4ac6"
+libc = "glibc"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "a6b10a701329d8712bb9fe1fa93317b5c755d2527ee5cb7f216058c80487294b"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.arm-linux-gnueabihf-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "31c719b83475e9360c0e8d62bd4260ef31ac3224"
+libc = "musl"
+libgfortran_version = "4.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "cb7ceea3c2551175405bde76e11241099ca62cb100d5ebd4442ad56413fbf898"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-musl-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "2acd676ad6813dbb47dc0bc11c0a55c10fffd215"
+libgfortran_version = "3.0.0"
+os = "freebsd"
+
+    [[PROPACK.download]]
+    sha256 = "2cec1d4f0e41eadcd094dd6678d79256061fb91ef81bc6098d0a04c102dc2055"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "679fe03abededa2b6da8ccfb4a5b7e95c64ec9ec"
+libc = "musl"
+libgfortran_version = "3.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "6892c6ac38cb953c5b4a7c5be9ce9ed9ac43192ecfb94d60e80c521a3953634d"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-musl-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "c14fd3a265b0fd5008f347ba5a78a8ed22d04d33"
+libgfortran_version = "3.0.0"
+os = "macos"
+
+    [[PROPACK.download]]
+    sha256 = "27b2026e4589a75f799a2b829fab4f3a4896812dc15cb09bc49f33fcf4436c77"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-apple-darwin14-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "7501c501bd42c87a2897b13b0765a8bd3fc451d6"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "dd421e09fbc789e8d3ae668ff8951156dbbb580417ed59f66779ec8f681d9949"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-linux-gnu-libgfortran5.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "623e26662e7fb758a300b83aa28e9083d5a75d7a"
+libgfortran_version = "3.0.0"
+os = "windows"
+
+    [[PROPACK.download]]
+    sha256 = "91e7f75c2374414ca9630e98c43ab5eab338f5c994fab8da830cd5e52a431fc7"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-w64-mingw32-libgfortran3.tar.gz"
+[[PROPACK]]
+arch = "x86_64"
+git-tree-sha1 = "0dfa6823030bcc5c85cd39d16522f6a8dd7a6c81"
+libgfortran_version = "4.0.0"
+os = "freebsd"
+
+    [[PROPACK.download]]
+    sha256 = "e42cd63692ebb77cd17d5726539dcfc6a00016ee61f034009f217be26e0fc186"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.x86_64-unknown-freebsd11.1-libgfortran4.tar.gz"
+[[PROPACK]]
+arch = "i686"
+git-tree-sha1 = "9f83271d660a7f989fa23252c31df2a7c5d6d722"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[PROPACK.download]]
+    sha256 = "96ae03d565d91eec0e108be5f7c9eda9b766a09f3a66b980b79ff89bc910eb82"
+    url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.1.0+0/PROPACK.v0.1.0.i686-linux-gnu-libgfortran5.tar.gz"
