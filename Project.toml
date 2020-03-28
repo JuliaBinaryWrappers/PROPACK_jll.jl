@@ -1,6 +1,6 @@
 name = "PROPACK_jll"
 uuid = "2c99449f-f194-5e92-8ff0-13814ff41dcf"
-version = "0.1.0+0"
+version = "0.1.0+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
