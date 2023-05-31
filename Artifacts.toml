@@ -261,12 +261,12 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.i686-linux-musl-libgfortran5.tar.gz"
 [[PROPACK]]
 arch = "i686"
-git-tree-sha1 = "8c53669adf763221afff8e098b9877ef7cdd7a98"
+git-tree-sha1 = "7047103b02b3385e6a2adf2c00e22a4121186cd4"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[PROPACK.download]]
-    sha256 = "a914304311cdae821890012307c8e128e4b427ddbe0167781d55f80388df3b8e"
+    sha256 = "59cdd65cadcc7676aa4e38ef1abe555f221fba4ddff34f2a66b80e3fec99d1a1"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.i686-w64-mingw32-libgfortran3.tar.gz"
 [[PROPACK]]
 arch = "i686"
@@ -318,30 +318,30 @@ os = "linux"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.powerpc64le-linux-gnu-libgfortran5.tar.gz"
 [[PROPACK]]
 arch = "x86_64"
-git-tree-sha1 = "6f102fc2850b36ded304d5bccbe866cfb5303e27"
+git-tree-sha1 = "f4cb2703fcf76ee235bef3fd1e23fdcc5afc1bb0"
 libgfortran_version = "3.0.0"
 os = "macos"
 
     [[PROPACK.download]]
-    sha256 = "08e433aebaf3a1b28a9f785b5439cc243e8b48a763f97129f18ee028a10128d6"
+    sha256 = "b15e9141ef5d6bb82a4325d2865fa69b7d8e797213c7ff7fd9373d7b338e9717"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.x86_64-apple-darwin-libgfortran3.tar.gz"
 [[PROPACK]]
 arch = "x86_64"
-git-tree-sha1 = "8c2df1a66075e0153bd85ccec3b09797327449c2"
+git-tree-sha1 = "5343a2df9a0075e01f9f730a3c54c808d61b7625"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[PROPACK.download]]
-    sha256 = "ea06bc0278be57b20a2166f0f76a62207c0018cf231555011c44b6a0de0fcd41"
+    sha256 = "066d595dd1407bb20e9110f08d0494a80bac02c9ae5e1e05f327eee6475bd50a"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[PROPACK]]
 arch = "x86_64"
-git-tree-sha1 = "b5450660273dcf20a0654fa6ac32db3fde0cedec"
+git-tree-sha1 = "081c556f10d20867af76293efb57962d7b5ad1df"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PROPACK.download]]
-    sha256 = "adfdd16fd398f7da7fcf09092dfe26661c602886af32ce643f0eeb7b7c00ba65"
+    sha256 = "76a4e33016fb3c4ed3dad2591ef8bb6b25d2c8f9b94465a7e56a718b6fd7406c"
     url = "https://github.com/JuliaBinaryWrappers/PROPACK_jll.jl/releases/download/PROPACK-v0.2.2+0/PROPACK.v0.2.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[PROPACK]]
 arch = "x86_64"
